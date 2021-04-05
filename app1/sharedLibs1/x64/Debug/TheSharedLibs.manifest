@@ -1,0 +1,4 @@
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+    <assemblyIdentity name="TheSharedLibs" version="0.0.0.5" processorArchitecture="amd64"  type="win32"/>
+    <file name="sharedLib1.dll"/>
+</assembly>
